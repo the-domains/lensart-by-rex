@@ -1,0 +1,23 @@
+name: LensArt by Rex
+favicon: null
+layout_spectrum: 0.6987236684653908
+typography_spectrum: 0.46505575627088547
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5200066398829222
+  lightness: 0.5524871095549315
+  saturation: 0.25349724339321256
+  rhythmicContrast: 0.8197007982525975
+purpose: []
